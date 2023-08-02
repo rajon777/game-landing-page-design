@@ -218,3 +218,34 @@ color: #F948B2;
 .games-items-name p:hover{
     color: #F948B2;
 }
+
+/*footer section css*/
+.footer-logo{
+   justify-content: center;
+    display: flex;
+}
+.footer{
+    text-align: center;
+    background: #0B0223;
+    padding: 50px 0px;
+    margin: 0px;
+}
+.store{
+    display: flex;
+    justify-content: center;
+}
+.store li{
+    list-style: none;
+    margin: 40px 20px;
+    color: #FFF;;
+}
+.social-icon{
+    color: #FFF;
+   
+}
+.social-icon i{
+    padding:0px 20px;
+}
+h5{
+    color: rgba(255, 255, 255, 0.60);
+}
